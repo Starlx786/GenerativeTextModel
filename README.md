@@ -57,4 +57,4 @@ Can be extended to chatbots, content creation, and summarization
 Conclusion
 This project successfully demonstrates a Generative Text Model based on user prompts using GPT technology. It highlights the power of transformer-based models in generating human-like text and provides a strong foundation for advanced NLP applications. The project meets all specified objectives and serves as a practical implementation of modern generative AI techniques.
 
-*OUTPUT*: 
+*OUTPUT*: <img width="1457" height="288" alt="Image" src="https://github.com/user-attachments/assets/338edca8-ac92-401f-adad-5b28ec1326da" />
